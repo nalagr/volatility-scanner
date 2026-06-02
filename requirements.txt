@@ -1,0 +1,14 @@
+# data + math
+pandas
+numpy
+
+# requests + web
+requests
+urllib3
+
+# env
+python-dotenv
+
+# data visualization
+matplotlib
+yfinance
