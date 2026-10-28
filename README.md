@@ -39,8 +39,8 @@ Most options spreads enter both legs at the same time. This strategy splits them
 Requires Python 3.13+.
 
 ```bash
-git clone https://github.com/nalagr/trading-project.git
-cd trading-project
+git clone https://github.com/nalagr/volatility-scanner.git
+cd volatility-scanner
 
 # using uv
 uv venv

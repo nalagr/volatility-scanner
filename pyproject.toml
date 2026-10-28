@@ -1,7 +1,7 @@
 [project]
-name = "trading-project"
+name = "volatility-scanner"
 version = "0.1.0"
-description = "Add your description here"
+description = "S&P 500 volatility scanner and dynamic diagonal spread manager"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
